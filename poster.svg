@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">UPI Safety Poster for Senior Citizens</title>
+<desc id="desc">High contrast poster: stop, check name and amount, never share PIN or OTP, beware of unknown links, and call 1930 promptly if financial cyber fraud is suspected in India.</desc>
+<rect width="1200" height="1600" fill="#f7fbf7"/>
+<rect x="0" y="0" width="1200" height="310" fill="#104b3b"/>
+<text x="600" y="86" fill="#f5c75e" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle" letter-spacing="4">PAUSE • CHECK • PROTECT</text>
+<text x="600" y="170" fill="#ffffff" font-family="Arial,sans-serif" font-size="68" font-weight="800" text-anchor="middle">UPI SAFETY</text>
+<text x="600" y="240" fill="#ffffff" font-family="Arial,sans-serif" font-size="38" text-anchor="middle">For seniors and families</text>
+<g font-family="Arial,sans-serif" fill="#16352d">
+  <circle cx="145" cy="420" r="55" fill="#e3f1e8" stroke="#176b52" stroke-width="5"/>
+  <path d="M120 420 l17 18 35 -42" fill="none" stroke="#176b52" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="235" y="405" font-size="42" font-weight="800">CHECK NAME &amp; AMOUNT</text>
+  <text x="235" y="455" font-size="30">Read the payment screen before approving.</text>
+  <line x1="90" y1="510" x2="1110" y2="510" stroke="#d7e2dc" stroke-width="3"/>
+  <circle cx="145" cy="620" r="55" fill="#fff0e7" stroke="#8f2f24" stroke-width="5"/>
+  <rect x="116" y="594" width="58" height="52" rx="8" fill="none" stroke="#8f2f24" stroke-width="7"/>
+  <path d="M129 594 v-12 a16 16 0 0 1 32 0 v12" fill="none" stroke="#8f2f24" stroke-width="7"/>
+  <text x="235" y="602" font-size="42" font-weight="800">NEVER SHARE PIN OR OTP</text>
+  <text x="235" y="652" font-size="30">Keep secret codes private—even from callers.</text>
+  <line x1="90" y1="710" x2="1110" y2="710" stroke="#d7e2dc" stroke-width="3"/>
+  <circle cx="145" cy="820" r="55" fill="#fff4cd" stroke="#9a6b00" stroke-width="5"/>
+  <path d="M145 785 l35 63 h-70 z" fill="none" stroke="#9a6b00" stroke-width="7" stroke-linejoin="round"/>
+  <text x="145" y="835" font-size="38" font-weight="800" fill="#9a6b00" text-anchor="middle">!</text>
+  <text x="235" y="802" font-size="42" font-weight="800">DON'T RUSH OR CLICK</text>
+  <text x="235" y="852" font-size="30">Verify unknown links, calls and QR requests.</text>
+  <line x1="90" y1="910" x2="1110" y2="910" stroke="#d7e2dc" stroke-width="3"/>
+</g>
+<rect x="70" y="980" width="1060" height="330" rx="34" fill="#8f2f24"/>
+<text x="600" y="1050" font-family="Arial,sans-serif" font-size="31" fill="#fff0e7" font-weight="700" text-anchor="middle">SUSPECT FINANCIAL CYBER FRAUD IN INDIA?</text>
+<text x="600" y="1165" font-family="Arial,sans-serif" font-size="100" fill="#ffffff" font-weight="900" text-anchor="middle">CALL 1930</text>
+<text x="600" y="1225" font-family="Arial,sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">Promptly report at the official portal</text>
+<text x="600" y="1270" font-family="Arial,sans-serif" font-size="30" fill="#ffffff" font-weight="700" text-anchor="middle">cybercrime.gov.in</text>
+<text x="600" y="1385" font-family="Arial,sans-serif" font-size="30" fill="#16352d" font-weight="800" text-anchor="middle">STOP • CHECK • ASK A TRUSTED PERSON</text>
+<text x="600" y="1450" font-family="Arial,sans-serif" font-size="22" fill="#435d53" text-anchor="middle">Awareness material only. Confirm current instructions on official websites.</text>
+<text x="600" y="1490" font-family="Arial,sans-serif" font-size="22" fill="#435d53" text-anchor="middle">RBI • NPCI • CERT-In • National Cyber Crime Reporting Portal</text>
+</svg>

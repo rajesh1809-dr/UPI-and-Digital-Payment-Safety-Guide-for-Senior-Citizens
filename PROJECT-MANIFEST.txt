@@ -1,0 +1,6 @@
+UPI & Digital Payment Safety Guide for Senior Citizens
+Version: 1.0 educational prototype
+Stack: HTML, CSS, vanilla JavaScript; no dependencies
+Run: open index.html or python -m http.server 8000
+Privacy: no payment processing, account login, or collection of bank credentials
+Important: complete actual AI-tool research, verify current official sources, and get Tamil review before submission.
